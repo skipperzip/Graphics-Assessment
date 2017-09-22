@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="test.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="test.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mono.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mono.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="cube.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="cube.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="textured.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="textured.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mvplite.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="mvplite.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="lambert.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="lambert.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="standard.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="standard.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shadow.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="shadow.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="direct.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="direct.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="gpass.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="gpass.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="cpass.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="cpass.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="lpassD.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="lpassD.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="tessTest.vert">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="tessTest.frag">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="tessTest.tesc">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="tessTest.tese">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
